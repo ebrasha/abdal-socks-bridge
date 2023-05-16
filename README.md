@@ -61,6 +61,7 @@ If, you are interested in free projects and helping the people of the world, sen
 - RHEL.7-x64
 - RHEL.8-x64
 - Fedora.37-x64
+- Android
  
  
  ## ⚠️ Legal disclaimer ⚠️

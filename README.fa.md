@@ -64,6 +64,7 @@
 - RHEL.7-x64
 - RHEL.8-x64
 - Fedora.37-x64
+- Android
 
  
  

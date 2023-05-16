@@ -2,11 +2,11 @@
 
 ## نسخه خط فرمان
 
-![](https://raw.githubusercontent.com/ebrasha/abdal-4iproto-server-config/main/shot.jpg)
+![](https://raw.githubusercontent.com/ebrasha/abdal-socks-bridge/main/cli-c.jpg)
 
 ## نسخه گرافیکی
 
-![](https://raw.githubusercontent.com/ebrasha/abdal-4iproto-server-config/main/shot.jpg)
+![](https://raw.githubusercontent.com/ebrasha/abdal-socks-bridge/main/gui-c.jpg)
 
 
 # 🤵 برنامه نویس و توسعه دهنده

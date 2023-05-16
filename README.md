@@ -1,11 +1,11 @@
 # Abdal 4iProto client version
 
 ## Client cli version
-![](https://raw.githubusercontent.com/ebrasha/abdal-4iproto-server-config/main/shot.jpg)
+![](https://raw.githubusercontent.com/ebrasha/abdal-socks-bridge/main/cli-c.jpg)
 
 ## Client GUI version
-![](https://raw.githubusercontent.com/ebrasha/abdal-4iproto-server-config/main/shot.jpg)
-
+![](https://raw.githubusercontent.com/ebrasha/abdal-socks-bridge/main/gui-c.jpg)
+ 
 # 🤵 Programmer
 Ebrahim Shafiei (EbraSha)
 

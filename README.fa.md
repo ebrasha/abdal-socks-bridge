@@ -66,7 +66,10 @@
 - Fedora.37-x64
 - Android
 
- 
+# 🧲 پروژه های مرتبط
+1. [Abdal 4iProto server management version](https://github.com/ebrasha/abdal-4iproto-server-config)
+
+
  
  ## ⚠️ سلب مسئولیت قانونی ⚠️
 

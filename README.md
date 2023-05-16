@@ -52,6 +52,15 @@ If, you are interested in free projects and helping the people of the world, sen
 - Windows Server 2016 x64
 - Windows Server 2019 x64
 - Windows Server 2022 x64
+- Debian.11-x64
+- Debian.10-x64
+- Ubuntu.22.04-x64
+- Ubuntu.20.04-x64
+- Ubuntu.18.04-x64
+- Centos.7-x64
+- RHEL.7-x64
+- RHEL.8-x64
+- Fedora.37-x64
  
  
  ## ⚠️ Legal disclaimer ⚠️
